@@ -1,0 +1,2 @@
+class MirkwoodController < ApplicationController
+end

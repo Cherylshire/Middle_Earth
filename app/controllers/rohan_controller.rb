@@ -1,0 +1,2 @@
+class RohanController < ApplicationController
+end
